@@ -5,5 +5,5 @@ function arraySum(){
     for (i=0;i<arrs.length;i++){
         sum+=arrs[i]
     }
-    console.log(`the sum is ${sum}`)
+    document.write(`the sum is ${sum}`)
 }
